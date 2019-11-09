@@ -1,1 +1,1 @@
-# Bitcoin-Exponential-Moving-Average-Trading-Strategy
+# Bitcoin Exponential Moving Average Trading Strategy
