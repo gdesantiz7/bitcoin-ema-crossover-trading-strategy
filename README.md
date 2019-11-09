@@ -3,7 +3,7 @@ Bitcoin is perhaps the world’s most volatile asset class traded in large scale
 
 An EMA crossover occurs when the “younger” exponential moving average crosses the “older” exponential moving average.  When this occurs, the investor should initiate a position (buying in an uptrend and selling in a downtrend).  This position should be closed when the crossover occurs again.  Since moving averages by nature are lagging indicators, getting the readings up to speed is important.  The EMA gives more weight to the most recent prices, thereby aligning the average closer to current prices.
 
-The first EMA crossover that will be used in this project is a 50-day and 200-day which is known as the golden cross and more commonly used for longer term trading.  The second EMA crossover is a 12-day and 26-day and more commonly used for medium term trading.
+The first EMA crossover in this project is a 50-day and 200-day which is known as the golden cross and more commonly utilized in longer term trading.  The second EMA crossover is a 12-day and 26-day which is usually applied in medium term trading.
 
 ## Using the Bitcoin EMA Crossover Trading Strategy
 
