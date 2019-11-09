@@ -6,8 +6,8 @@ An EMA crossover occurs when the “younger” exponential moving average crosse
 ## Using the Bitcoin EMA Crossover Trading Strategy
 The first EMA crossover in this project is a 50-day and 200-day which is known as the golden cross and more commonly utilized in longer term trading.  The second EMA crossover is a 12-day and 26-day which is usually applied in medium term trading.  Both of these strategies will be visually represented with interactive charts that feature both zooming and panning capabilities for more precise analysis.
 
-<img src="images/Screen Shot 2019-11-09 at 5.45.15 PM.png" width="650" height="550" align="center">
-<img src="images/Screen Shot 2019-11-09 at 5.47.25 PM.png" width="650" height="550" align="center">
+<img src="images/Screen Shot 2019-11-09 at 5.45.15 PM.png" width="650" height="550">
+<img src="images/Screen Shot 2019-11-09 at 5.47.25 PM.png" width="650" height="550">
 
 First, download the bitstampUSD_1-min_data_2012-01-01_to_2019-08-12.csv from the Kaggle link provided below as well as the .ipynb and .py files from this repository.
 
