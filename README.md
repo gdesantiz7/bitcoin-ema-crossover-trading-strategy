@@ -11,7 +11,7 @@ The first EMA crossover in this project is a 50-day and 200-day which is known a
 <img src="images/Screen Shot 2019-11-09 at 5.47.25 PM.png" width="650" height="550">
 </p>
 
-First, download the bitstampUSD_1-min_data_2012-01-01_to_2019-08-12.csv from the Kaggle link provided below as well as the .ipynb and .py files from this repository.
+First, download the data set bitstampUSD_1-min_data_2012-01-01_to_2019-08-12.csv from the Kaggle link provided below as well as the .ipynb and .py files from this repository.  If another data set is incorporated instead of the above, ensure minute to minute prices of OHLC (Open, High, Low, Close) are being used and timestamps are in Unix time to begin.
 
 Once the necessary libraries are imported and the csv file is loaded as a pandas DataFrame, the main priority is completing the entire “Scrub” section which includes Drop Misprint, Date Format, and Data Preprocess.  After this has been entirely completed, feel free to advance to the section entitled “Model” if you would like to skip the visualization portion for the actual trading strategy component.
 
